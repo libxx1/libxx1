@@ -1,6 +1,7 @@
 Hi there 👋
 
-📕 Places to read about me and my work: 
+Places to read about me and my work: 
++ [LinkedIn profile](https://www.linkedin.com/in/libsmart)
 + [Digital Her Inspiration Wall](https://digitalher.co.uk/inspiration-wall/liz-smart)
 
 Empowering young people to use computing technologies to shape the world
@@ -12,5 +13,3 @@ Empowering young people to use computing technologies to shape the world
 Key note speaker
 + [Manchester Digital Skills Festival](https://www.manchesterdigital.com/talent-and-skills/skills-festival)
 + BookingGo Innovate week
-
-📫 How to reach me: though [LinkedIn](https://www.linkedin.com/in/libsmart)
