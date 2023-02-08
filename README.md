@@ -23,12 +23,14 @@ Media about my work:
 + [Updating projects: Community review blog](https://www.raspberrypi.org/blog/introduction-to-scratch)
 + [New projects for young creators](https://blog.codeclub.org/2022/01/27/go-on-a-coding-adventure-with-our-new-project-paths)
 + [European City of Science Robot Orchestra](https://codeclubclarendon.wordpress.com/category/robot-orchestra)
++ [Liverpool MakeFest radio podcast](https://lpoolmakefest.wordpress.com/2018/06/11/meet-the-makers-code-club)
 
 EdTech roles:
 + [Primary school Code Club volunteer](https://codeclubclarendon.wordpress.com/category/code-club-sessions)
 + [Manchester CoderDojo mentor](https://youtu.be/P-SXXLy8urQ)
 + [Coolest Projects UK organiser](https://www.thesharpproject.co.uk/coolest-projects-uk-2019-in-review)
 + [CodeWith mentor](https://codewith.org.uk/people)
++ [CodeUp Salford organiser](https://codeupsalford.github.io)
 + [Hack Manchester Junior mentor](https://digitalblog.coop.co.uk/2016/10/28/hack-manchester-junior)
 + [Hive Learning Network in action](https://technation.io/news/hive-learning-community)
 
