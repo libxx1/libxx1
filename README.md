@@ -33,5 +33,6 @@ EdTech roles:
 + [CodeUp Salford organiser](https://codeupsalford.github.io)
 + [Hack Manchester Junior mentor](https://digitalblog.coop.co.uk/2016/10/28/hack-manchester-junior)
 + [Hive Learning Network in action](https://technation.io/news/hive-learning-community)
++ [Raspberry Pi Certified Educator](https://www.raspberrypi.org/training)
 
 
