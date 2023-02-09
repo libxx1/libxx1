@@ -4,7 +4,6 @@ Empowering young people to use computing technologies to shape the world.
 
 Places to read about me: 
 + [LinkedIn profile](https://www.linkedin.com/in/libsmart)
-+ [Digital Her Inspiration Wall](https://digitalher.co.uk/inspiration-wall/liz-smart)
 
 Examples of my work: 
 + [Raspberry Pi Foundation project site](https://projects.raspberrypi.org/en/projects)
@@ -31,6 +30,7 @@ EdTech roles:
 + [Coolest Projects UK organiser](https://www.thesharpproject.co.uk/coolest-projects-uk-2019-in-review)
 + [CodeWith mentor](https://codewith.org.uk/people)
 + [CodeUp Salford organiser](https://codeupsalford.github.io)
++ [Digital Her Inspiration Wall](https://digitalher.co.uk/inspiration-wall/liz-smart)
 + [Hack Manchester Junior mentor](https://digitalblog.coop.co.uk/2016/10/28/hack-manchester-junior)
 + [Hive Learning Network in action](https://technation.io/news/hive-learning-community)
 + [Raspberry Pi Certified Educator](https://www.raspberrypi.org/training)
